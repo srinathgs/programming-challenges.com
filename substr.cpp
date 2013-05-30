@@ -1,3 +1,5 @@
+//This is not my solution to the problem. I don't know why I have saved it here
+
 #include<iostream>
 #include<string.h>
 using namespace std;
